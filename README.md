@@ -7,7 +7,7 @@ Group:
 
 Shuyi Huo (sh3989)  
 Siqi Chen (sc4647)   
-Weihan Chu (wc2688)  
+(Weihan Chu)[https://github.com/WeihanChu-wc2688] (wc2688)  
 
 Special thanks to volunteer contributors: Linjun Huang 
 
