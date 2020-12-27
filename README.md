@@ -24,8 +24,8 @@ The output will be our style-transferred image. Input and output Size as tensor:
 For example:  
 
 <p align="center">
-  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg" width="50px" height="50px">
-  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg" width="50px" height="50px">
+  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg" width="500px" height="500px">
+  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg" width="500px" height="500px">
 </p>
 
 The output is:  
