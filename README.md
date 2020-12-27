@@ -23,12 +23,13 @@ The output will be our style-transferred image. Input and output Size as tensor:
 
 For example:  
 
-![New York City](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg =100x100) 
-![Star](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg=100x100)   
+![New York City](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg){:height="50%" width="50%"}  
+
+![Star](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg){:height="50%" width="50%"}   
 
 
 The output is:  
 
 
-![nyc_star_transfer](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/nyc_star_transfer.jpg=100x100). 
+![nyc_star_transfer](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/nyc_star_transfer.jpg){:height="50%" width="50%"} 
 
