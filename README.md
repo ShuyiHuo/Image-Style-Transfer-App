@@ -27,9 +27,12 @@ For example:
   <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg" width="500px" height="500px">
   <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg" width="500px" height="500px">
 </p>
-
+  
+## Results
 The output is:  
 
+<p align="center">
+  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/nyc_star_transfer.jpg" width="500px" height="500px">
+</p>
 
-![nyc_star_transfer](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/nyc_star_transfer.jpg){:height="50%" width="50%"} 
 
