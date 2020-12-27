@@ -27,6 +27,10 @@ For example:
 
 ![Star](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg){:height="50%" width="50%"}   
 
+<p align="center">
+  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/NYC.jpg" width="256" height="455">
+  <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/star.jpg" width="256" height="455">
+</p>
 
 The output is:  
 
