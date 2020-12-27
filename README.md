@@ -35,4 +35,5 @@ The output is:
   <img src="https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/image/nyc_star_transfer.jpg" width="500px" height="500px">
 </p>
 
-
+The more information and details will be shown on our [report](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/5242_Final_Report.pdf) and 
+the code will be shown on [code](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/project_demo.ipynb).
