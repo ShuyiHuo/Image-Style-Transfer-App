@@ -26,7 +26,12 @@ The output is:
 The more information and details will be shown on our [report](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/5242_Final_Report.pdf) and 
 the code will be shown on [code](https://github.com/ShuyiHuo/Image-Style-Transfer-App/blob/main/project_demo.ipynb).
 
-## Reference
+## Reference   
+
+Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. “Image Style Transfer Using Convolutional Neural Networks.” 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.  
+
+Keras-Team, ed. “Keras-Team/Keras.” GitHub, n.d. https://github.com/keras-team/keras/tree/fcf 2ed7831185a282895dda193217c2a97e1e41d.
+“Neural Style Transfer: TensorFlow Core.” TensorFlow, n.d. https://www.tensorflow.org/tutorials/g enerative/style_transfer.
 
 ---
 
